@@ -8,7 +8,8 @@ const Data = {
       image: require('./images/basta-de-amores-de-mierda.jpg'),
       autor: "Gonzalo Romero",
       category:"libro",
-      cantidad:1
+      cantidad:1,
+      description: "Una charla amena, divertida y profunda, sobre cómo detectar, evitar o salir de relaciones tóxicas, esas que padecemos a diario todos los seres humanos. En el marco de la presentación de su 4to libro, ¡llega a España por primera vez!"
       
     },
     {
@@ -18,7 +19,8 @@ const Data = {
       image: require('./images/ahora-te-toca-ser-feliz.png'),
       autor: "Curro Cañete",
       category:"libro",
-      cantidad:1
+      cantidad:1,
+      description: "En estas páginas encontrarás la guía que necesitas para sacarle todo el provecho a cada día, a cada hora, y para comprender, por fin, que el pasado quedó atrás; aprendiste de él y ahora es el momento confiar en ti, dar un paso adelante y apostar por lo que amas."
       
     },
     {
@@ -28,7 +30,8 @@ const Data = {
       image: require('./images/aprende-como-vencer-tus-miedos-de-forma-eficaz.jpg'),
       autor: "Gamaliel Prince",
       category:"libro",
-      cantidad:1
+      cantidad:1,
+      description: "El método para tener Autoconfianza total (Libros de Autoayuda y Superación Personal) (Spanish Edition) Tapa dura"
       
     },
     {
@@ -38,7 +41,8 @@ const Data = {
       image: require('./images/don-positivo.jpg'),
       autor: "Marco A. Montero Granados",
       category:"libro",
-      cantidad:1
+      cantidad:1,
+      description: "Toda dificultad es una oportunidad. (libro inspirador): Libro de autoayuda para mejorar tu vida a través del crecimiento y la superación personal. (Spanish Edition)"
       
     },
     {
@@ -48,7 +52,8 @@ const Data = {
       image: require('./images/el-amor-de-tu-vida.jpg'),
       autor: "Rut Nieves",
       category:"libro",
-      cantidad:1
+      cantidad:1,
+      description: "¿Por qué hay personas que encuentran pareja tan fácilmente y otras no?¿Por qué algunas personas disfrutan de relaciones estables y apasionantes y otras no?¿Por qué unos tienen «éxito» en el amor y otros no? Nada de lo que has vivido ha sido casual. Tu forma de relacionarte se configuró durante tu infancia. ¿Qué opinaban tus padres del amor? ¿Qué opinaban las mujeres de tu familia de los hombres? ¿Qué opinaban los hombres de tu familia de las mujeres? ¿Cómo se trataban? Todo lo que has vivido es el fruto de la herencia cultural y transgeneracional que recibiste y de las conclusiones que sacaste durante tu infancia acerca de ti mismo, del amor, de los hombres y de las mujeres."
       
     },
     {
@@ -58,7 +63,8 @@ const Data = {
       image: require('./images/el-poder-de-confiar-en-ti.jpg'),
       autor: "Curro Cañete",
       category:"libro",
-      cantidad:1
+      cantidad:1,
+      description: "El poder de confiar en ti te invita a convertirte en tu propio coach y a ser tu propio guía con pautas y ejercicios para que aprendas a sentirte bien y a hacer realidad tus verdaderos deseos y aspiraciones."
       
     },
     {
@@ -68,7 +74,8 @@ const Data = {
       image: require('./images/habitos-de-superacion.jpg'),
       autor: "Susana Linares",
       category:"libro",
-      cantidad:1
+      cantidad:1,
+      description: "Cambiar de vida y hacer realidad tus objetivos es posible, si empiezas poco a poco y avanzas paso a paso. El secreto está en fijarse los hábitos recurrentes que te ayuden a mejorar cada día un poco hasta hacer realidad aquello por lo que estás luchando. En palabras de James Clear, especialista en formación de hábitos de larga duración, se trata de crear unos “hábitos atómicos”, pequeñas mejoras que introduces en tu día a día y que, con el tiempo, repercuten en tu objetivo."
       
     },
     {
@@ -78,7 +85,8 @@ const Data = {
       image: require('./images/inquebrantable.jpg'),
       autor: "Daniel Habif",
       category:"libro",
-      cantidad:1
+      cantidad:1,
+      description: "Este es un libro que no acepta resúmenes. No forma parte de los títulos que tachas y vas a otra cosa. No es un trofeo, ni un manual de procedimientos. No es una tesis, ni un texto académico. Si tu intención es pasar por él sin dejar que él lo haga por ti, no servirá de nada. El dinero lo podrás recuperar, pero te advierto que el tiempo se habrá ido para siempre. Su belleza no está en las palabras que yo escribí, sino en las que tú generes con él. Está compuesto de mil pedazos míos, trozos sueltos de mi alma y de mi carne: un alcázar edificado con todas las piedras que me han lanzado, una diadema confeccionada con las perlas que he recibido. Hallarás soledades y alegrías, anhelos y zozobras, inquietudes y esperanzas, clamores y murmullos. No fue fácil desprenderme de ellos». —Daniel Habif Inquebrantables reúne y expande los mensajes de inspiración y motivación más populares que han tenido el mayor impacto y que representan mejor a Daniel Habif como orador motivacional."
       
     },
     {
@@ -88,7 +96,8 @@ const Data = {
       image: require('./images/se-amable-contigo-mismo.jpg'),
       autor: "Kristin Neff",
       category:"libro",
-      cantidad:1
+      cantidad:1,
+      description: "Una guía detallada para aprender a ejercer la compasión hacia uno mismo y lograr tus sueños La búsqueda incansable de una autoestima sana se ha convertido en una religión tiránica. Nuestra cultura ultra competitiva nos indica que tenemos que estar por encima de la media para sentirnos bien con nosotros mismos, pero siempre hay alguien más atractivo, más brillante o más inteligente."
       
     },
     
